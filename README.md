@@ -8,7 +8,7 @@ Classification into classes of Background, Objective, Method, Result, or Conclus
 
 ##### 1. Problem Statement
 
-        Over 1 million RCTs have been published so far and around half of them are in PubMed, which makes it challenging for medical investigators to pinpoint the information they are looking for. When researchers search for previous literature, e.g., to write systematic reviews, they often skim through abstracts in order to quickly check whether the papers match the criteria of interest. This process is easier when abstracts are structured, i.e., the text in an abstract is divided into semantic headings such as the objective, method, result, and conclusion. However, over half of published RCT abstracts are unstructured, which makes it more difficult to quickly access the information of interest.
+Over 1 million RCTs have been published so far and around half of them are in PubMed, which makes it challenging for medical investigators to pinpoint the information they are looking for. When researchers search for previous literature, e.g., to write systematic reviews, they often skim through abstracts in order to quickly check whether the papers match the criteria of interest. This process is easier when abstracts are structured, i.e., the text in an abstract is divided into semantic headings such as the objective, method, result, and conclusion. However, over half of published RCT abstracts are unstructured, which makes it more difficult to quickly access the information of interest.
 
 
 The problem is of Sequential Sentence Classification problem, that is, the classification of short texts that appear in sequences.
