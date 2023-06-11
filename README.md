@@ -21,20 +21,6 @@ Often, a pipeline of statistical methods is required to achieve a single modelin
 Deep learning methods are starting to out-compete the statistical methods on some challenging natural language processing problems with singular and simpler models.
 
 
-Deep learning methods are popular, primarily because they are delivering: 
-1. Drop-in Replacement Models
-2. New NLP Models
-3. Feature Learning
-4. Continued Improvement
-5. End-to-End Models
-
-
-Impressive Applications of Deep Learning
-1. Automatic Image Caption Generation
-2. Automatic Translation of Text
-3. Automatic Text Classification
-
-
 ##### 3. Existing Systems
 1. Many of the existing text classification techniques like Bag of words, Vector Semantic, Word Embedding, and Probabilistic Language model consider the importance of words individually and not in a long sequence.
 2. Techniques like sequence labeling, parsing, and semantics consider a sequence of sentences but do not dive deep into the complex nature and meaning of human languages and their quirks in them.
