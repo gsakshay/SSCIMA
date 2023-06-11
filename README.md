@@ -52,13 +52,15 @@ Implementation involved building a series of models, starting by getting a basel
 ##### Results 
 
 
-Based on the F1 score. Probably explain what is F1 score here.
-baseline                                        0.69
-custom_token_embed_conv1d                0.80
-pretrained_token_embed                        0.74
-custom_char_embed_conv1d                0.69
-hybrid_char_token_embed                        0.75
-tribrid_pos_char_token_embed                0.85
+Based on the F1 score.
+| Model                              | F1 Score |
+| ---------------------------------- | -------- |
+| baseline                           | 0.69     |
+| custom_token_embed_conv1d          | 0.80     |
+| pretrained_token_embed             | 0.74     |
+| custom_char_embed_conv1d           | 0.69     |
+| hybrid_char_token_embed            | 0.75     |
+| tribrid_pos_char_token_embed       | 0.85     |
 
 
 ##### Conclusion
